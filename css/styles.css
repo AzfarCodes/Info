@@ -1,0 +1,48 @@
+body {
+  background-color: #eaf6f6;
+}
+
+img {
+  border-radius: 15%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7.5px;
+  width: 5%;
+}
+h1 {
+  color: #00adb5;
+  font-family: serif;
+  font-size: 32px;
+}
+h3 {
+  color: #ff2e63;
+  font-style: normal;
+  font-family: serif;
+}
+p {
+  font-style: normal;
+  font-variant: normal;
+  font-family: cursive;
+}
+table {
+  font-style: normal;
+  font-variant: small-caps;
+  font-family: cursive;
+}
+ol {
+  font-style: normal;
+  font-variant: small-caps;
+  font-family: cursive;
+}
+form {
+  font-style: normal;
+  font-variant: normal;
+  font-family: cursive;
+}
+a{
+	text-decoration: none!important;
+}
